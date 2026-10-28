@@ -100,19 +100,6 @@ A software development community focused on software, technology, programming, a
 🔗 **[Explore Xyber Core on GitHub](https://github.com/Xyber-Core)**  
 ▶️ **[Visit the YouTube channel](https://www.youtube.com/@XyberCore)**
 
-
-## 📊 GitHub Analytics
-
-
-<p align="center">
-  <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=RikerHoch&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikerHoch&theme=tokyonight&hide_border=true&layout=compact" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img width="400" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RikerHoch&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
 ---
 
 <p align="center">
